@@ -1,4 +1,4 @@
-# Financas
+# Finanças
 Sistema de Controle de Finanças Pessoais
 
 # Tecnologias
