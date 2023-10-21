@@ -3,7 +3,6 @@ Sistema de Controle de Finanças Pessoais
 
 
 # Tecnologias
-  SpringBoot
+  👍SpringBoot
   Spring Data
 
-sasas
