@@ -1,7 +1,7 @@
 # financas
 Sistema de Controle de Finanças Pessoais
 
-#Tecnologias
+# Tecnologias
 SpringBoot
 Spring Data
 
