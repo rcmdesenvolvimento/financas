@@ -3,7 +3,7 @@ Sistema de Controle de Finanças Pessoais
 
 # Tecnologias
 <ul>
-  <ui>Spring Boot</ui>
-  <ui>Spring Data</ui>
-  <ui>PostGreSQL</ui>
+  <li>Spring Boot</li>
+  <li>Spring Data</li>
+  <li>PostGreSQL</li>
 </ul>
